@@ -1,0 +1,9 @@
+[
+    {
+        "login": "jadson",
+        "cpf": "12312312345",
+        "nome_completo": "Jadson Santos",
+        "senha": "teste",
+        "saldo": "1000"
+    }
+]
