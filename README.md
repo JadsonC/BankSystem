@@ -1,6 +1,6 @@
 # BankSystem
 
-Este é um código Perl que implementa uma aplicação de cadastro de contas bancárias simples. A aplicação utiliza um banco de dados PostgreSQL para armazenar informações das contas e também armazena os dados em um arquivo JSON localmente. O código foi desenvolvido com uso de módulos como `DBI` para a conexão com o banco de dados e `JSON` para manipulação de arquivos JSON.
+Este é um código Perl que implementa uma aplicação de cadastro de contas bancárias. A aplicação utiliza um banco de dados PostgreSQL para armazenar informações das contas e também armazena os dados em um arquivo JSON localmente. O código foi desenvolvido com uso de módulos como `DBI` para a conexão com o banco de dados e `JSON` para manipulação de arquivos JSON.
 
 ## Pré-requisitos
 
